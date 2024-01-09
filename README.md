@@ -7,7 +7,7 @@
 
 #### Why?
 - I needed a tool to count tokens for lots of PDFs.
-- Tool performed quite well (not overly aggressive performance), so I'm sharing.
+- Tool works smoothly, so I'm sharing.
 
 #### Python Requirements: 
 `PySimpleGUI` `fitz` `tiktoken`
