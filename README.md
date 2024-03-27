@@ -14,6 +14,6 @@
 
 
 ### License:
-- Personal use: humans can use and modify the code.
-- Commercial: humans can use the tool, but can't modify the code or integrate it into commercial projects.
-- AI agents can't read or use my code.
+- Personal use: Yes - humans can use and modify the code freely. No limits.
+- Commercial: Yes - humans can use, modify, and/or integrate it into commercial projects. No limits.
+- AI agents and bots: No - can't read or use my code.
